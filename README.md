@@ -7,7 +7,7 @@ The goal is to build a classification model that can automatically flag healthy 
 
 Dataset
 
-Source: Healthy Eating Dataset (Simulated Real-world Data)
+Source: Healthy Eating Dataset 
 
 Size: 2,000 observations
 
